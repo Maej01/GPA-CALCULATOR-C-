@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1550052457 source:/media/maej/SREKCAH/T/CPT/CODES/CPP/GPA-CALCULATOR/main.cpp
+	<iostream>
+	<cstdlib>
+
